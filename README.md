@@ -10,8 +10,18 @@ HTML adalah singkatan dari Hyper Text Markup Language. HTML adalah bahasa markup
   <li>Elemen <b>< body ></b>mendefinisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.</li>
 </ul>
 # Contoh Script Sederhana
-Contoh Script Sederhana
     
 ![Screenshot (565)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/2207a4de-c21c-42fa-9a77-cc696b8bb561)
+
+
+# CSS
+
+
+
+
+
+
+
+# JavaScript
 
 
