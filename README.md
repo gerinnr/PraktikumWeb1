@@ -9,17 +9,59 @@ HTML adalah singkatan dari Hyper Text Markup Language. HTML adalah bahasa markup
   <li>Elemen <b>< title ></b>menentukan judul untuk halaman HTML (yang ditampilkan di bilah judul browser atau di tab halaman)</li>
   <li>Elemen <b>< body ></b>mendefinisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.</li>
 </ul>
-# Contoh Script Sederhana
+    
+# Contoh dari HTML
     
 ![Screenshot (565)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/2207a4de-c21c-42fa-9a77-cc696b8bb561)
 
+![Screenshot (566)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/debaded2-ddb5-4da7-af5a-988062dc8c56)
+
+![Screenshot (567)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/fd0092be-69b8-4399-a424-6e84e5078763)
+
+![Screenshot (568)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/9d06e26c-9cdf-4e19-8b9a-d482a7a9272f)
+
+![Screenshot (569)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/9cc5d8ba-8a3d-4fc7-99ba-6ead5c8f4203)
+
 
 # CSS
+CSS adalah singkatan dari Cascading Style Sheet. CSS menjelaskan bagaimana elemen HTML ditampilkan di layar, kertas, atau di media lain. CSS juga menghemat banyak pekerjaan. Hal itu dapat mengontrol tata letak beberapa halaman web sekaligus
+Stylesheet eksternal disimpan dalam file CSS.
 
+# Kelebihan Menggunakan CSS
+<ul style="list-style-type:circle;">
+<li>CSS Memecahkan Masalah Besar</li>
+<li>CSS Menghemat Banyak Pekerjaan</li>
+</ul>
 
+# Syntax CSS
+<ul style="list-style-type:circle;">
+<li>p adalah pemilih dalam CSS (menunjuk ke elemen HTML yang ingin Anda gaya: < p >.</li>
+<li>color adalah properti, dan red merupakan nilai properti</li>
+<li>text-align adalah properti, dan center merupakan nilai properti</li>
+</ul>
 
+# CSS Selectors
+Kita dapat membagi pemilih CSS menjadi lima kategori:
 
+- Selector sederhana (pilih elemen berdasarkan nama, id, kelas)
+- Penyeleksi kombinator (memilih elemen berdasarkan hubungan tertentu di antara       elemen tersebut)
+- Selector kelas semu (memilih elemen berdasarkan keadaan tertentu)
+- Pemilih elemen semu (memilih dan memberi gaya pada bagian elemen)
+- Pemilih atribut (memilih elemen berdasarkan atribut atau nilai atribut)
 
+Pemilih id CSS menggunakan atribut id dari elemen HTML untuk memilih elemen tertentu. Id suatu elemen bersifat unik dalam suatu halaman, sehingga pemilih id digunakan untuk memilih satu elemen unik! Untuk memilih elemen dengan id tertentu, tulis karakter hash (#), diikuti dengan id elemen tersebut.
+
+![Screenshot (570)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/8a285b93-01f2-4750-ba88-a00190935828)
+
+# Contoh dari CSS
+
+![Screenshot (571)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/fa4788fc-6102-422e-9d94-602dd7554025)
+
+![Screenshot (572)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/2bc82910-6b5b-4098-90a3-c6a2a2848840)
+
+![Screenshot (573)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/621b556d-32dc-4aba-8857-12601dbb4057)
+
+![Screenshot (574)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/ceeedc26-8b26-4f4d-9943-8c05bb8bb987)
 
 
 # JavaScript
