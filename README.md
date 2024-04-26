@@ -79,4 +79,20 @@ JavaScript sendiri dapat mengubah konten dalam HTML
 Salah satu dari banyak metode JavaScript HTML adalah getElementById().
 Contoh di bawah ini "menemukan" elemen HTML (dengan id="demo"), dan mengubah konten elemen (innerHTML) menjadi "Halo JavaScript":
 
+Dalam JavaScript sintaks JavaScript adalah seperangkat aturan, bagaimana program JavaScript dibuat, Nilai JavaScript
+Sintaks JavaScript mendefinisikan dua jenis nilai:
 
+Nilai tetap (literals)
+Nilai variabel
+
+JavaScript Literals :
+1. Bilangan ditulis dengan atau tanpa desimal
+2. String adalah teks yang ditulis dalam tanda kutip ganda atau tunggal
+
+Dalam bahasa pemrograman, variabel digunakan untuk menyimpan nilai data. JavaScript menggunakan kata kunci var, letdan constuntuk mendeklarasikan variabel.Tanda sama dengan digunakan untuk memberikan nilai pada variabel.
+
+# Contoh dari JavaScript
+
+![Screenshot (577)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/3bc0d5d3-8c37-4627-9cb7-ddf6df487118)
+
+![Screenshot (578)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/34dd881d-faaa-4a0e-81b9-6a4e3848e402)
