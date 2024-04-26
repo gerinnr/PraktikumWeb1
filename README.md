@@ -11,5 +11,7 @@ HTML adalah singkatan dari Hyper Text Markup Language. HTML adalah bahasa markup
 </ul>
 # Contoh Script Sederhana
 Contoh Script Sederhana
-![Screenshot (565)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/e59719e8-c464-4589-896c-512cc58957f0)
+    
+![Screenshot (565)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/2207a4de-c21c-42fa-9a77-cc696b8bb561)
+
 
