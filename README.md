@@ -61,9 +61,22 @@ Pemilih id CSS menggunakan atribut id dari elemen HTML untuk memilih elemen tert
 
 ![Screenshot (573)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/621b556d-32dc-4aba-8857-12601dbb4057)
 
+![Screenshot (575)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/b7b0ed3b-58a7-4b35-af00-0a9807259305)
+
+![Screenshot (576)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/2e239798-6f67-4a43-acfb-ea7634f85d77)
+
 ![Screenshot (574)](https://github.com/gerinnr/PraktikumWeb1/assets/168093092/ceeedc26-8b26-4f4d-9943-8c05bb8bb987)
 
-
 # JavaScript
+JavaScript merupakan suatu bahasa pemrograman yang paling populer dan merupakan bahasa pemrogramman web. Mengapa harus mempelajari JavaScript? Karena JavaScript merupakan salah satu bahasa pemrograman yang wajib dipelajari oleh setiap pengembang web.
+
+1. HTML untuk mendefinisikan konten halaman web
+2. CSS untuk menentukan tata letak halaman web
+3. JavaScript untuk memprogram perilaku halaman web
+
+JavaScript sendiri dapat mengubah konten dalam HTML
+
+Salah satu dari banyak metode JavaScript HTML adalah getElementById().
+Contoh di bawah ini "menemukan" elemen HTML (dengan id="demo"), dan mengubah konten elemen (innerHTML) menjadi "Halo JavaScript":
 
 
